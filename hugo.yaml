@@ -1,4 +1,4 @@
-baseURL: 'https://evsec.org/'
+baseURL: '/'
 title: EVSec
 theme:
   - ananke
