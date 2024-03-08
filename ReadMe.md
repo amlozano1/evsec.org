@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39a7dfc6-6a8d-4995-83e0-8d76413414e7/deploy-status)](https://app.netlify.com/sites/astonishing-malasada-215db8/deploys)
