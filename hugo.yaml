@@ -1,0 +1,38 @@
+baseURL: 'https://evsec.org/'
+title: EVSec
+theme:
+  - ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 3
+googleAnalytics: ''
+enableRobotsTXT: true
+languages:
+  en:
+    title: EVSec
+    weight: 1
+    contentDir: content/en
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+params:
+  text_color: ''
+  author: ''
+  favicon: ''
+  site_logo: ''
+  description: Building Breaking & Defending Technology
+  background_color_class: bg-black
+  recent_posts_number: 3
+  ananke_socials:
+    - name: meetup
+      url: 'https://www.meetup.com/evsecaz/'
+      color: '#f64060'
+    - name: discord
+      url: 'https://discord.gg/mcu4b7NBYW'
+      color: '#5865f2'
+    - name: linkedin
+      url: 'https://www.linkedin.com/groups/14418241/'
+    - name: github
+      url: 'https://github.com/amlozano1/evsec.org/'
